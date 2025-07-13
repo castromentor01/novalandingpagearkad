@@ -6,7 +6,7 @@ const MentorsSection: React.FC = () => {
       name: "Léo Castro",
       role: "Especialista em Tráfego Pago",
       image: "https://i.ibb.co/DnXNzvr/minha-foto.jpg",
-      description: "Especialista em tráfego pago com mais de 7 anos de experiência e R$4 milhões gerenciados em campanhas. Já ajudou mais de 25 mil alunos a dominarem o marketing digital."
+      description: "Carioca, 33 anos, cristão, esposo e pai. Léo Castro nasceu na Vila Kennedy comunidade no RJ e atualmente mora em Alphaville Sp. No digital a 5 anos, se tornou Especialista em tráfego pago e Estrategista digital, além de Mentor e Palestrante. Com números excepcionais, ele gerenciou R$7 milhões em anúncios, já teve seus ensinamentos assistidos por pelo menos 50 mil pessoas e faturou mais de 20 milhões de reais.
     },
    
   ];
