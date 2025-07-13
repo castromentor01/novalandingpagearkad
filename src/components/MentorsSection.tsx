@@ -8,12 +8,7 @@ const MentorsSection: React.FC = () => {
       image: "https://i.ibb.co/DnXNzvr/minha-foto.jpg",
       description: "Especialista em tráfego pago com mais de 7 anos de experiência e R$4 milhões gerenciados em campanhas. Já ajudou mais de 25 mil alunos a dominarem o marketing digital."
     },
-    {
-      name: "Paloma Stefani",
-      role: "Especialista em Conversão",
-      image: "https://i.ibb.co/QvnsTQcq/Whats-App-Image-2024-09-04-at-11-23-16.jpg",
-      description: "Especialista em estratégias de conversão e vendas pelo WhatsApp. Responsável por transformar leads em clientes fiéis, com mais de R$3 milhões em vendas nos últimos 12 meses."
-    }
+   
   ];
 
   return (
